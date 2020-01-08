@@ -8,18 +8,27 @@ body {
 }
 
 .quem-somos {
-	background-color: #B0C4DE;
+	background-color: #87CEFA;
 }
 
 .parceiros {
+	background-color: #B0C4DE;
+}
+
+.servicos {
 	background-color: #B0E0E6;
 }
 
-.margin {
-	padding-bottom: 50px;
+.bg-footer{
+	background-color: black;
 	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
-#B0C4DE
-#B0E0E6
-#87CEFA
+.margin {
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+
+
